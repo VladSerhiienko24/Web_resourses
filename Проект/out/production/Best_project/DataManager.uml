@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Source.DataManager</OriginalElement>
+  <nodes>
+    <node x="-566.6666666666666" y="216.1111111111111">Controllers.AuthorizationController</node>
+    <node x="175.60019841269832" y="218.0">Controllers.TreeViewUserController</node>
+    <node x="1082.4613095238094" y="179.5">Controllers.TreeViewController</node>
+    <node x="22.41071428571422" y="-38.99999999999994">Source.User</node>
+    <node x="-117.0" y="496.0">Controllers.AboutProgramController</node>
+    <node x="610.139880952381" y="-35.99999999999994">Source.Reference</node>
+    <node x="-118.25" y="409.75">Controllers.MessageBox</node>
+    <node x="222.91679606625257" y="-35.99999999999994">Source.Folder</node>
+    <node x="-571.2708333333333" y="-39.99999999999994">Source.DataManager</node>
+    <node x="163.91666666666669" y="1695.0833333333335">javafx.application.Application.Parameters</node>
+    <node x="-522.9166666666665" y="1461.833333333334">javafx.application.Application</node>
+    <node x="-550.0913992408559" y="572.6666666666666">Controllers.AddEditController</node>
+    <node x="-120.1111111111112" y="216.44444444444457">Controllers.RegistrationController</node>
+    <node x="-220.58928571428555" y="574.3333333333333">Controllers.EditController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="javafx.application.Application.Parameters" target="javafx.application.Application">
+      <point x="0.0" y="-59.0" />
+      <point x="148.0" y="1793.0" />
+      <point x="125.75" y="1793.0" />
+      <point x="-125.75" y="181.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9" x="264.3749999999999" y="291.24999999999994" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,6 @@
+﻿Що таке Java;https://ru.wikipedia.org/wiki/Java
+Курс "Основи програмування на Java";https://courses.prometheus.org.ua/courses/EPAM/JAVA101/2016_T2/about
+Навчальний портал Javarush;https://javarush.ru/
+Java — всё по этой теме для программистов;https://tproger.ru/tag/java/
+Відеокурс Java Starter;https://itvdn.com/ru/video/java-starter
+Основы java для начинающих;http://www.fandroid.info/tutorial-po-osnovam-yazyka-programmirovaniya-java-dlya-nachinayushhih/

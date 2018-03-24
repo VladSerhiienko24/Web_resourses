@@ -1,0 +1,5 @@
+﻿Самоучитель по C#;http://nullpro.info/2013/samouchitel-po-c-dlya-nachinayushhix-01-osnovy-yazyka-peremennye-logika-cikly/
+C# для вундеркиндов;https://msdn.microsoft.com/ru-ru/library/bb330922(v=vs.80).aspx
+Информационно обучающий сайт, Обучение языка Си Шарп;http://ci-sharp.ru/
+C# - Микроигры;https://www.videosharp.info/
+C# — всё по этой теме для программистов;https://tproger.ru/tag/c-sharp/

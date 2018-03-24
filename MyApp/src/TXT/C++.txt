@@ -1,0 +1,5 @@
+﻿Що таке С++;https://ru.wikipedia.org/wiki/C%2B%2B
+Статьи C++;http://www.quizful.net/posts?category=cpp
+C++ с нуля;https://code-live.ru/tag/cpp-manual/
+Введение в C++;http://cppstudio.com/post/213/
+Статьи о программировании на С++;http://cpp-reference.ru/articles-list/

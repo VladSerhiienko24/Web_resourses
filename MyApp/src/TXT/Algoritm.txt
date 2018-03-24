@@ -1,0 +1,5 @@
+﻿ПРАКТИКУМ ПО ПРОГРАММИРОВАНИЮ DOTS;http://hneu.dots.org.ua/login?from=%2Fcontests
+Список лекций по алгоритмам;https://brestprog.neocities.org/lections/index.html
+MAXimal - разбор множества алгоритмов на С++;https://e-maxx.ru/algo/
+Алгоритмизация;https://prog-cpp.ru/algorithmization/
+Основы алгоритмизации и языки программирования;http://www.lessons-tva.info/edu/e-inf1/e-inf1-4-2.html
